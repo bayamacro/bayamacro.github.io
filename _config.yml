@@ -46,7 +46,7 @@ aux_links:
     - "https://github.com/bayamacro/Baya-Macro-Elden-Ring-Edition/releases"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
