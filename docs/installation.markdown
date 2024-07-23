@@ -33,8 +33,17 @@ nav_order: 2
 
 2. Edit the value discord_Token by editing the values inside the single quotation marks ` `. 
 
+{: .warning }
 Do not delete any lines or write stuff in non-designated places.
+
+{: .note }
 An Example of how the 'discord.env' file should look: 
+
+```.env
     discord_Token = 'MYTOKENHERE'
+```
+    
 
 ## For getting token
+
+WORK IN PROGRESS
