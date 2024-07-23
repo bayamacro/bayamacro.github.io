@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Installation Guide
-permalink: /installation/
+permalink: /docs/installation
 nav_order: 2
 ---
 
