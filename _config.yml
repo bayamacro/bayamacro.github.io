@@ -40,6 +40,8 @@ color_scheme: dark
 logo: "/assets/images/Title_Logo.png"
 favicon_ico: "/assets/images/icon.ico"
 
+nav_external_links_new_tab: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
