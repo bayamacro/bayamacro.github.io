@@ -15,7 +15,7 @@ Baya's Macro is a universal automated mouse and keyboard service that is as said
 ---
 
 {: .warning }
-> Make sure you install correctly to ensure perfect experience. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+> Make sure you install correctly to ensure perfect experience. See [the CHANGELOG]({% link CHANGELOG.markdown %}) for a list of releases, new features, and bug fixes.
 
 ## About the macro
 
