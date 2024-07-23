@@ -1,13 +1,8 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
+nav_order: 99
 ---
 
-Baya's Macro available for many games for many different platforms!
-
-Macro Releases at GitHub:
-[Elden Ring Releases](https://github.com/bayamacro/Baya-Macro-Elden-Ring-Edition/releases) |
-
-
-
+<a href="/assets/images/Title_Logo.png"><img src="/assets/images/Title_Logo.png" width="720"></a>
