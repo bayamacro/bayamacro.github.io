@@ -76,14 +76,13 @@ nav_order: 2
     'Discord User ID' 
     'Discord Webhook URL'
 
-    ☙ To get Discord ID, go to User Settings> Advanced> Enabled 'Developer Mode'> Press 'ESC' or Close Settings> Click on profile (left of 'User Settings')> Copy User ID
+    ☙ To get Discord User ID, go to User Settings> Advanced> Enabled 'Developer Mode'> Press 'ESC' or Close Settings> Click on profile (left of 'User Settings')> Copy User ID
 
-    <a href="/assets/gifs/Discord_Webhook_ID.gif"><img src="/assets/gifs/Discord_Webhook_ID.gif" width="500"></a>
+    <a href="/assets/gifs/Discord_User_ID.gif"><img src="/assets/gifs/Discord_User_ID.gif" width="500"></a>
 
     ☙ To get Webhook URL, go to your own server> Edit Channel> Integrations> Webhooks> Copy Webhook URL
 
     <a href="/assets/gifs/Discord_Webhook_URL.gif"><img src="/assets/gifs/Discord_Webhook_URL.gif" width="500"></a>
-
 
 
 # Enable Discord Commands
