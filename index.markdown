@@ -9,7 +9,7 @@ permalink: /
 # Welcome to Baya's Macro: Document Edition
 {: .fs-9 }
 
-Baya's Macro is a universal automated mouse and keyboard service that is as said fully automated.
+A universal automated mouse and keyboard service that is, as said fully automated, for games.
 {: .fs-6 .fw-300 }
 
 ---
