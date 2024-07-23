@@ -41,8 +41,8 @@ favicon_ico: "/assets/images/icon.ico"
 
 # Aux links for the upper right navigation
 aux_links:
-  "Elden Ring Releases":
-    - "https://github.com/bayamacro/Baya-Macro-Elden-Ring-Edition/releases"
+  "Macro Releases on Github":
+    - "https://github.com/bayamacro?tab=stars"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
