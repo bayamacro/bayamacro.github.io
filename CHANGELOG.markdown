@@ -1,12 +1,14 @@
 ---
 title: CHANGELOG
 layout: default
+permalink: /changelog/
+nav_exclude: true
 ---
 
 # CHANGELOG
 
 {: .highlight }
-All notable user-facing changes to any Baya Macro project are documented in this file.
+All notable macro changes to any Baya Macro project are documented in this file.
 
 ## Elden Ring Release v0.0.0
 

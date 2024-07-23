@@ -19,7 +19,7 @@ Baya's Macro is a universal automated mouse and keyboard service that is as said
 
 ## About the macro
 
-Baya's Macro is &copy; 2017-{{ "now" | date: "%Y" }} by [Faizul Haque aka. fiziaque](https://github.com/fiziaque).
+Baya's Macro is &copy; 2024-{{ "now" | date: "%Y" }} by [Faizul Haque aka. fiziaque](https://github.com/fiziaque).
 
 #### Thank you to the contributors of Baya's Macro!
 
