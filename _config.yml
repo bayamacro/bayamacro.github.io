@@ -23,7 +23,7 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Exclusive Documentation for Baya's Macro. Helping you set up and debug any 
   errors that you may have.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bayamacro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  "bayamacro"
