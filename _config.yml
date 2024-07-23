@@ -30,6 +30,7 @@ github_username:  "bayamacro"
 
 # Build settings
 theme: just-the-docs
+
 plugins:
   - jekyll-feed
 
