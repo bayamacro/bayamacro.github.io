@@ -37,8 +37,8 @@ plugins:
 
 color_scheme: dark
 
-logo: "/_assets/_images/icon.png"
-favicon_ico: "/_assets/_images/icon.ico"
+logo: "/assets/images/icon.png"
+favicon_ico: "/assets/images/icon.ico"
 
 
 # Exclude from processing.
