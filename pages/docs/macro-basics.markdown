@@ -195,7 +195,7 @@ nav_order: 2
 
     ✧ Attach Files: On
 
-    ✧ Mention @everyone, @here and All Roles
+    ✧ Mention @everyone, @here and All Roles: On
     
     ![](../../assets/gifs/Bot_Permissions.gif)
 
