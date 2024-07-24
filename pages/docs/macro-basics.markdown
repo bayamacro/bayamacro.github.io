@@ -181,8 +181,9 @@ nav_order: 2
 
     ☙ [Get Bot Link](#get-bot-link)
 
+    ☙ Add the 'Bot' to the server of your choice.
+
 ## Get Bot Link
 
 ☙ Input the 'Application ID' into the box below.
 
-{% include html/get-bot-link.html %}
