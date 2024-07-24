@@ -187,3 +187,4 @@ nav_order: 2
 
 ☙ Input the 'Application ID' into the box below.
 
+{% include html/get-bot-link.html %}
