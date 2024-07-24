@@ -184,7 +184,21 @@ nav_order: 2
     ☙ Add the 'Bot' to the discord server of your choice.
     
     ![](../../assets/gifs/Add_Bot_To_Server.gif)
+
+    ☙ If you've 'Privated' any channels make sure the bot is able to view the channel / send messages / mention
+
+    ✧ View Channel: On
     
+    ✧ Send Messages: On
+
+    ✧ Embed Links: On
+
+    ✧ Attach Files: On
+
+    ✧ Mention @everyone, @here and All Roles
+    
+    ![](../../assets/gifs/Bot_Permissions.gif)
+
 ## Get Bot Link
 
 ☙ Input the 'Application ID' into the box below.
