@@ -26,7 +26,7 @@ Baya's Macro is &copy; 2024-{{ "now" | date: "%Y" }} by <a href="https://github.
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
+     <a href="{{ contributor.html_url }}" target="_blank"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
   </li>
 {% endfor %}
 </ul>
