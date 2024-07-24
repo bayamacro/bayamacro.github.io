@@ -181,7 +181,7 @@ nav_order: 2
 
     ☙ [Get Bot Link](#get-bot-link)
 
-    ☙ Add the 'Bot' to the server of your choice.
+    ☙ Add the 'Bot' to the discord server of your choice.
 
 ## Get Bot Link
 
