@@ -182,7 +182,9 @@ nav_order: 2
     ☙ [Get Bot Link](#get-bot-link)
 
     ☙ Add the 'Bot' to the discord server of your choice.
-
+    
+    ![](../../assets/gifs/Add_Bot_To_Server.gif)
+    
 ## Get Bot Link
 
 ☙ Input the 'Application ID' into the box below.
