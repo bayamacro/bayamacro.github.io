@@ -10,6 +10,7 @@ nav_order: 2
 
 > * [**PC Settings**](#pc-settings)
 > * [**Installation and Usage Guide**](#installation-and-usage-guide)
+>   * [Get Bot Link](#get-bot-link)
 
 </details>
 
@@ -174,35 +175,14 @@ nav_order: 2
 
     ![](../../assets/gifs/Edit_env.gif)
 
-    ☙ Go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Applications</a> → Go to the Application you've created → Under 'Settings' Click 'General Information' → Copy 'Application ID'
+    ☙ Get 'Application ID' - Go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Applications</a> → Go to the Application you've created → Under 'Settings' Click 'General Information' → Copy 'Application ID'
 
     ![](../../assets/gifs/Application_ID.gif)
 
-    
-<html>
-<body>
+    ☙ [Get Bot Link](#get-bot-link)
 
-<p>Click on the button to copy the text from the text field. Try to paste the text (e.g. ctrl+v) afterwards in a different window, to see the effect.</p>
+## Get Bot Link
 
-<input type="text" value="Hello World" id="myInput">
-<button onclick="myFunction()">Copy text</button>
+☙ Input the 'Application ID' into the box below.
 
-<script>
-function myFunction() {
-  // Get the text field
-  var copyText = document.getElementById("myInput");
-
-  // Select the text field
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); // For mobile devices
-
-  // Copy the text inside the text field
-  navigator.clipboard.writeText(copyText.value);
-  
-  // Alert the copied text
-  alert("Copied the text: " + copyText.value);
-}
-</script>
-
-</body>
-</html>
+{% include html/get-bot-link.html %}
