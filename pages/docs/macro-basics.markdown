@@ -166,6 +166,43 @@ nav_order: 2
 
 8. Discord Commands
 
-    ☙
+    ☙ Go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Applications</a> → Click 'New Applications' → Input Bot Name & Accept TOS → Click 'Bot' under 'Settings' → Scroll down Enable 'Message Content Intent' and 'Save Changes' → Scroll back up and 'Reset Token' → Copy the 'Token'
 
-    ☙ Right Click 'discord.env' (If not in the same directory as macro executable, run once) and open as 'Notepad' or any code editors → Within the 2 single quotation marks, enter the 'Discord Token'
+    ![](../../assets/gifs/Discord_Set_Bot.gif)
+
+    ☙ Right Click 'discord.env' (If not in the same directory as macro executable, run the exe and close it) and open as 'Notepad' or any code editors → Within the 2 single quotation marks, paste the 'Discord Token'
+
+    ![](../../assets/gifs/Edit_env.gif)
+
+    ☙ Go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Applications</a> → Go to the Application you've created → Under 'Settings' Click 'General Information' → Copy 'Application ID'
+
+    ![](../../assets/gifs/Application_ID.gif)
+
+    
+<html>
+<body>
+
+<p>Click on the button to copy the text from the text field. Try to paste the text (e.g. ctrl+v) afterwards in a different window, to see the effect.</p>
+
+<input type="text" value="Hello World" id="myInput">
+<button onclick="myFunction()">Copy text</button>
+
+<script>
+function myFunction() {
+  // Get the text field
+  var copyText = document.getElementById("myInput");
+
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+  // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+  
+  // Alert the copied text
+  alert("Copied the text: " + copyText.value);
+}
+</script>
+
+</body>
+</html>
