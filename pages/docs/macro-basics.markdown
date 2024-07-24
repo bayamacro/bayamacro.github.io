@@ -32,8 +32,8 @@ nav_order: 2
     ✧ Display Resolution: Any resolution upto 3k
 
     ✧ Display Orientation: Landscape
-
-    <a href="/assets/gifs/Display_Settings.gif"><img src="/assets/gifs/Display_Settings.gif" width="500"></a>
+    
+    ![](../../assets/gifs/Display_Settings.gif)
 
 2. Power Options
 
@@ -42,9 +42,9 @@ nav_order: 2
     ✧ Open the Power & Sleep settings on your PC → Set the 'Screen' or 'Display' sleep timer to 'Never' to prevent the screen from sleeping
 
     ✧ This will ensure that your PC screen remains awake while the macro is running for an extended period
-
-    <a href="/assets/images/Power_and_Sleep.png"><img src="/assets/images/Power_and_Sleep.png" width="500"></a>
-
+    
+    ![](../../assets/images/Power_and_Sleep.png)
+    
 3. Graphics Card
 
     ☙ Some custom graphics card setting can impact how your display look which might cause the macro to not detect certain images. If you did not manually change any of said settings then you can skip to Step 4.
@@ -53,13 +53,13 @@ nav_order: 2
 
     ☙ Head to AMD Software: Adrenalin Edition → Gaming → Graphics → Scroll down to Image Sharpening → Turn Off
 
-    <a href="/assets/images/AMD_Image.png"><img src="/assets/images/AMD_Image.png" width="500"></a>
+    ![](../../assets/images/AMD_Image.png)
 
     **NVIDIA**
 
     ☙ Head to NVIDIA Control Panel → Manage 3D Settings → Image Scaling → Off
 
-    <a href="/assets/images/NVIDIA_Image.png"><img src="/assets/images/NVIDIA_Image.png" width="500"></a>
+    ![](../../assets/images/NVIDIA_Image.png)
 
 4. Program Interference
 
@@ -104,7 +104,7 @@ nav_order: 2
     
     ✧ .env (once .exe has been ran once)
 
-    <a href="/assets/images/File_Types.png"><img src="/assets/images/File_Types.png" width="500"></a>
+    ![](../../assets/images/File_Types.png)
 
 2. Downloads
 
@@ -120,7 +120,7 @@ nav_order: 2
 
     ☙ If this doesn't work, you might have to disable your window defender.
 
-    <a href="/assets/images/Error_1.png"><img src="/assets/images/Error_1.png" width="500"></a>
+    ![](../../assets/images/Error_1.png)
 
 4. Organize Files
 
@@ -138,7 +138,7 @@ nav_order: 2
 
     ✧ Then browse for the folder where the macro executable is located. (Exclude whole folder, not each file seperately)
 
-    <a href="/assets/gifs/Windows_Security_Exclude_Folder.gif"><img src="/assets/gifs/Windows_Security_Exclude_Folder.gif" width="500"></a>
+    ![](../../assets/gifs/Windows_Security_Exclude_Folder.gif)
 
 6. Start the Macro
 
@@ -158,12 +158,14 @@ nav_order: 2
 
     ☙ To get Discord User ID, go to User Settings → Advanced → Enabled 'Developer Mode' → Press 'ESC' or Close Settings → Click on profile (left of 'User Settings') → Copy User ID
 
-    <a href="/assets/gifs/Discord_User_ID.gif"><img src="/assets/gifs/Discord_User_ID.gif" width="500"></a>
+    ![](../../assets/gifs/Discord_User_ID.gif)
 
     ☙ To get Webhook URL, go to your own server → Edit Channel → Integrations → Webhooks → Copy Webhook URL
 
-    <a href="/assets/gifs/Discord_Webhook_URL.gif"><img src="/assets/gifs/Discord_Webhook_URL.gif" width="500"></a>
+    ![](../../assets/gifs/Discord_Webhook_URL.gif)
 
 8. Discord Commands
 
-    STILL WORK IN PROGRESS
+    ☙
+
+    ☙ Right Click 'discord.env' (If not in the same directory as macro executable, run once) and open as 'Notepad' or any code editors → Within the 2 single quotation marks, enter the 'Discord Token'

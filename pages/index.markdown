@@ -19,7 +19,7 @@ A universal automated mouse and keyboard service that is, as said fully automate
 
 ## About the macro
 
-Baya's Macro is &copy; 2024-{{ "now" | date: "%Y" }} by [Faizul Haque aka. fiziaque](https://github.com/fiziaque).
+Baya's Macro is &copy; 2024-{{ "now" | date: "%Y" }} by <a href="https://github.com/fiziaque" target="_blank">Faizul Haque aka. fiziaque</a>.
 
 #### Thank you to the contributors of Baya's Macro!
 
