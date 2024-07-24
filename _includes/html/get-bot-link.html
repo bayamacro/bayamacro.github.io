@@ -1,0 +1,23 @@
+---
+---
+<html lang="en">
+<body>
+    <input type="text" value="" id="Application_ID">
+
+    <button onclick="GetLink()">
+        Get Link
+    </button>
+
+    <script>
+        function GetLink() {
+            let getApplicationId = document.getElementById("Application_ID").value;
+
+            if (getApplicationId != null && getApplicationId != "" && Number(getApplicationId) && Number.isInteger(Number(getApplicationId)) && Number(getApplicationId) > 0) {
+                open("https://discord.com/oauth2/authorize?client_id=" + getApplicationId + "&scope=bot&permissions=2147675136")
+            } else {
+                document.getElementById("Application_ID").value = ""
+            }
+        }
+    </script>
+</body>
+</html>
