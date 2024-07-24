@@ -5,7 +5,7 @@ permalink: /faq/
 nav_order: 4
 ---
 
-# FAQ
+# Frequently Asked Questions
 
 ## General use
 
