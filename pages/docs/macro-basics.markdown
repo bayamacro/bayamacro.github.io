@@ -171,7 +171,7 @@ nav_order: 2
 
     ![](../../assets/gifs/Discord_Set_Bot.gif)
 
-    ☙ Right Click 'discord.env' (If not in the same directory as macro executable, run the exe and close it) and open as 'Notepad' or any code editors → Within the 2 single quotation marks, paste the 'Discord Token'
+    ☙ Right Click 'discord.env' (If not in the same directory as macro executable, run the exe and close it) and open as 'Notepad' or any code editors → Within the 2 single quotation marks, paste the 'Discord Token' → Save the File (Ctrl + S) or File then Save
 
     ![](../../assets/gifs/Edit_env.gif)
 

@@ -15,7 +15,7 @@ A universal automated mouse and keyboard service that is, as said fully automate
 ---
 
 {: .warning }
-> Make sure you install correctly to ensure perfect experience. See [the CHANGELOG]({% link pages/CHANGELOG.markdown %}) for a list of releases, new features, and bug fixes.
+> Make sure you install correctly to ensure perfect experience. See <a href="https://github.com/bayamacro?tab=stars" target="_blank">Github Releases</a> for a list of macros of the games we currently have.
 
 ## About the macro
 
