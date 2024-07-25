@@ -167,6 +167,12 @@ nav_order: 2
 
 8. Discord Commands
 
+    **Commands Basics**
+
+    ☙ Prefix for Bot Commands = '!' <br> ✧ !shutdown - Shutdowns PC after instance of game + macro has been safely closed. <br> ✧ !check - Retreives a screenshot of the value that you want Discord to Track
+
+    **Setup**
+
     ☙ Go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Applications</a> → Click 'New Applications' → Input Bot Name & Accept TOS → Click 'Bot' under 'Settings' → Scroll down Enable 'Message Content Intent' and 'Save Changes' → Scroll back up and 'Reset Token' → Copy the 'Token'
 
     ![](../../assets/gifs/Discord_Set_Bot.gif)
