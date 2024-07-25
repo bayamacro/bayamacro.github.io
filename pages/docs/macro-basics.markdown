@@ -167,7 +167,7 @@ nav_order: 2
 
 8. Discord Commands
 
-    **Commands Basics**
+    **Command Basics**
 
     ☙ Prefix for Bot Commands = '!' <br> ✧ !shutdown - Shutdowns PC after instance of game + macro has been safely closed. <br> ✧ !check - Retreives a screenshot of the value that you want Discord to Track
 
