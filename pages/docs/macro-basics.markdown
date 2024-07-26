@@ -173,7 +173,25 @@ nav_order: 2
 
     **Setup**
 
-    ☙ Go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Applications</a> → Click 'New Applications' → Input Bot Name & Accept TOS → Click 'Bot' under 'Settings' → Scroll down Enable 'Message Content Intent' and 'Save Changes' → Scroll back up and 'Reset Token' → Copy the 'Token'
+    ☙ Go to <a href="https://discord.com/developers/applications" target="_blank">Discord Developer Applications</a> → Click 'New Applications' → Input Bot Name & Check TOS 
+
+    ☙ Go to 'Installation' under Settings → Under 'Install Link' click the droplist and select 'None' 
+
+    ✧ Install Link: - None
+
+    ☙ **Save Changes**
+
+    ☙ Go to 'Bot' under 'Settings' → Under 'Authorization Flow' disable 'Public Bot' → Scroll down a little and under 'Privileged Gateway Intents' enable all:
+
+    ✧ Presence Intent: - On
+
+    ✧ Server Members Intent: On
+
+    ✧ Message Content Intent: On
+
+    ☙ **Save Changes**
+
+    ☙ Scroll back to the top and under 'TOKEN' click 'Reset Token' → Copy the 'Token'
 
     ![](../../assets/gifs/Discord_Set_Bot.gif)
 
